@@ -1,0 +1,6 @@
+seed,layer,neurons,bin
+0,1,100,bin01
+10,2,200,bin05
+50,3,300,bin1
+100,,,bin2
+,,,bin5
